@@ -30,8 +30,8 @@ Siga os passos abaixo!
 > pkg install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/ToinNetuh/ToiniuBot.git
-> cd ToiniuBot
+> git clone https://github.com/Pandamaker22/panda
+> cd panda
 > bash install.sh
 ```
 
